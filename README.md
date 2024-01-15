@@ -1,16 +1,44 @@
-### Hi there 👋
+<div align= "center">
+  <h1> 
+   Olá, meu nome é Clailane Izabelly, seja bem vindo(a) ao meu GitHub!
+  </h1> 
+</div>
 
-<!--
-**izabellyarmeris/izabellyarmeris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align= "center" style= "display: inline-block"><br>
+  <img align="center" alt="Belly-pic" height="250" style= "border-radius: 20px" src="https://avatars.githubusercontent.com/u/142270754?v=4">
+ </div> 
+ 
+ 
+ 
+  ### Sobre mim
+ 
+• 🖥 Em busca da primeira oportunidade de trabalho na área de desenvolvimento web.
 
-Here are some ideas to get you started:
+• 👩‍💻 Estudando programação Front-End.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• 👩 Pronomes: ela/dela.
+
+
+</div>
+
+
+### Tecnologias 
+
+<div style="display: inline_block"><br>
+ <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-plain.svg">
+  
+  ## Se conecte comigo:
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/clailane-armeris" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+  
+  
+
+
+
