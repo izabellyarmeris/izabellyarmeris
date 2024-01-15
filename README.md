@@ -10,7 +10,7 @@
  
  
  
-  ### Sobre mim
+  ## Sobre mim:
  
 • 🖥 Em busca da primeira oportunidade de trabalho na área de desenvolvimento web.
 
@@ -22,7 +22,7 @@
 </div>
 
 
-### Tecnologias 
+## Tecnologias:
 
 <div style="display: inline_block"><br>
  <img align="center" alt="HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
