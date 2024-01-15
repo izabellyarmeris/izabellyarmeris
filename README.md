@@ -5,7 +5,7 @@
 </div>
 
 <div align= "center" style= "display: inline-block"><br>
-  <img align="center" alt="Belly-pic" height="250" style= "border-radius: 50px" src="https://media.licdn.com/dms/image/D4D22AQFMh3Z-RBCTNQ/feedshare-shrink_1280/0/1695230732768?e=1707955200&v=beta&t=or-ewc3cYgmfU924nxiHSmp0t4Iijw-DYxajG4LI2W0">
+  <img align="center" alt="Belly-pic" height="250" style= "border-radius: 50px" src="https://media.licdn.com/dms/image/D4D22AQG9Cbmtfa4cpg/feedshare-shrink_1280/0/1695230732737?e=1707955200&v=beta&t=cba7m7vTs2uz-KBZHCB9iozkPhPbVZV3icLrEO7soic">
  </div> 
  
  
