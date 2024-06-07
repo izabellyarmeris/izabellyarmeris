@@ -27,8 +27,8 @@
   <img align="center" alt="React" title="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Java" title="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-plain.svg">
   <img align="center" alt="MySQL" title="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original.svg">
-  <img align="center"  alt="AWS" title="AWS" heitgh="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/512e4cbf4a224e03b0898ba41a3db93f67dd7d66/icons/amazonwebservices.svg">
- <img align="center"  alt="Python" title="Python" heitgh="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/512e4cbf4a224e03b0898ba41a3db93f67dd7d66/icons/python.svg">
+  <img align="center"  alt="AWS" title="AWS" heitgh="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+ <img align="center"  alt="Python" title="Python" heitgh="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg">
   ## Se conecte comigo:
  
 <div> 
