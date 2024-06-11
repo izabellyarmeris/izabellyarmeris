@@ -37,8 +37,9 @@
   <img height=200 align="center" display= "flex" src="https://github-readme-stats.vercel.app/api/top-langs?username=izabellyarmeris&layout=compact&langs_count=8&card_width=300&theme=transparent" />
 </a>
  </div>
+  
 ## Se conecte-se comigo!:
- </div>
+
 <div> 
   <a href="https://www.linkedin.com/in/clailane-armeris" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
