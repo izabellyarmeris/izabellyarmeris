@@ -31,10 +31,10 @@
  <img align="center"  alt="Python" title="Python" heitgh="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg"> <br><br>
  <div
 <a href="https://github.com/izabellyarmeris/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=izabellyarmeris&theme=transparent" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=izabellyarmeris&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" display= "flex" src="https://github-readme-stats.vercel.app/api/top-langs?username=izabellyarmeris&layout=compact&langs_count=8&card_width=300&theme=transparent" />
+  <img height=150 align="center" display= "flex" src="https://github-readme-stats.vercel.app/api/top-langs?username=izabellyarmeris&layout=compact&langs_count=8&card_width=300&theme=transparent" />
 </a>
  </div>
   
