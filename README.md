@@ -12,6 +12,9 @@
 • 👩‍💻 Estudando programação Front-End.
 
 • 👩 Pronomes: ela/dela.
+ ## Projetos
+ 🥇 Projeto AMA - Demoday - Instituto Proa <br>
+ 🥈 Hacker Cidadão 11.0/AlagaDevs Team - Emprel & SEBRAE <br>
 
 
 </div>
