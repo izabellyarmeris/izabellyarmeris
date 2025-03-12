@@ -7,9 +7,11 @@
  
   ## Sobre mim:
  
-• 🖥 Em busca da primeira oportunidade de trabalho na área de desenvolvimento web.
+• 🖥 Estagiária em suporte de TI e em Infraestrutura.
 
-• 👩‍💻 Estudando programação Front-End.
+• 🖥 Iniciando os estudos em Cybersegurança.
+
+• 👩‍💻 Estudando programação.
 
 • 👩 Pronomes: ela/dela.
  ## Projetos
